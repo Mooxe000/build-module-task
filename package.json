@@ -3,10 +3,7 @@
   "version": "0.0.0",
   "description": "Like the node module as writing gulp / grunt task.",
   "author": ":FooTearth <footearth@gmail.com>",
-  "main": [
-    "gulp.js",
-    "grunt.js"
-  ],
+  "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",

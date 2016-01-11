@@ -1,2 +1,1 @@
-( require './grunt'
-) require 'grunt'
+(require './index.js').grunt()
