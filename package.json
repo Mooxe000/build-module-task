@@ -1,0 +1,35 @@
+{
+  "name": "build-module-task",
+  "version": "0.0.0",
+  "description": "Like the node module as writing gulp / grunt task.",
+  "author": ":FooTearth <footearth@gmail.com>",
+  "main": [
+    "gulp.js",
+    "grunt.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mooxe000/build-module-task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mooxe000/build-module-task/issues"
+  },
+  "homepage": "https://github.com/Mooxe000/build-module-task",
+  "keywords": [
+    "builder",
+    "grunt",
+    "gulp"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lodash": "*",
+    "coffee-script": "*",
+    "grunt": "*",
+    "gulp": "*"
+  }
+}

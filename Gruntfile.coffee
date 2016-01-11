@@ -1,0 +1,2 @@
+( require './grunt'
+) require 'grunt'
