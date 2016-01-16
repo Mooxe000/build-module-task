@@ -1,7 +1,2 @@
-exports.gulp = ->
-  ( require './src/gulp'
-  ) require 'gulp'
-
-exports.grunt = ->
-  ( require './src/grunt'
-  ) require 'grunt'
+exports.gulp = -> require './src/gulp'
+exports.grunt = -> require './src/grunt'

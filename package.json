@@ -1,6 +1,6 @@
 {
   "name": "build-module-task",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Like the node module as writing gulp / grunt task.",
   "author": ":FooTearth <footearth@gmail.com>",
   "main": "index.js",

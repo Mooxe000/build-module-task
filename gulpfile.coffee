@@ -1,1 +1,1 @@
-(require './index.js').gulp()
+(require './index.js').gulp() require 'gulp'

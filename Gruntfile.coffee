@@ -1,1 +1,1 @@
-(require './index.js').grunt()
+(require './index.js').grunt() require 'grunt'
